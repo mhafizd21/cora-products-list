@@ -177,7 +177,7 @@
       }
     },
   ],
-  categories: [
+  "categories": [
     {
       "id": 1,
       "name": "Apparel",

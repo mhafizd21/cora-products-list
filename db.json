@@ -8,8 +8,8 @@
       "rating": 4.5,
       "is_available": true,
       "images": [
-        "https://example.com/headphones_image1.jpg",
-        "https://example.com/headphones_image2.jpg"
+        "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1545127398-14699f92334b?q=80&w=2868&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
       "category": {
         "id": 3,
@@ -24,8 +24,8 @@
       "rating": 4.2,
       "is_available": true,
       "images": [
-        "https://example.com/backpack_image1.jpg",
-        "https://example.com/backpack_image2.jpg"
+        "https://images.unsplash.com/photo-1474376962954-d8a681cc53b2?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1579718080147-0fef34dc9529?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fHRyYXZlbCUyMGJhY2twYWNrfGVufDB8fDB8fHww"
       ],
       "category": {
         "id": 4,
@@ -40,8 +40,8 @@
       "rating": 4.0,
       "is_available": true,
       "images": [
-        "https://example.com/smartwatch_image1.jpg",
-        "https://example.com/smartwatch_image2.jpg"
+        "https://images.unsplash.com/photo-1615834569398-4cc6036929f1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1542541864-4abf21a55761?q=80&w=2577&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
       "category": {
         "id": 3,
@@ -56,8 +56,8 @@
       "rating": 4.8,
       "is_available": true,
       "images": [
-        "https://example.com/coffeemaker_image1.jpg",
-        "https://example.com/coffeemaker_image2.jpg"
+        "https://images.unsplash.com/photo-1608354580875-30bd4168b351?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1566757304323-32abb9c50868?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
       "category": {
         "id": 2,
@@ -72,8 +72,8 @@
       "rating": 4.6,
       "is_available": true,
       "images": [
-        "https://example.com/runningshoes_image1.jpg",
-        "https://example.com/runningshoes_image2.jpg"
+        "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?q=80&w=2825&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?q=80&w=2825&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
       "category": {
         "id": 1,
@@ -88,8 +88,8 @@
       "rating": 4.3,
       "is_available": true,
       "images": [
-        "https://example.com/speaker_image1.jpg",
-        "https://example.com/speaker_image2.jpg"
+        "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?q=80&w=2831&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1589001181560-a8df1800e501?q=80&w=2874&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
       "category": {
         "id": 3,
@@ -104,8 +104,8 @@
       "rating": 4.7,
       "is_available": true,
       "images": [
-        "https://example.com/sunglasses_image1.jpg",
-        "https://example.com/sunglasses_image2.jpg"
+        "https://images.unsplash.com/photo-1577744486770-020ab432da65?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1555617117-08d2a80f6aa9?q=80&w=2949&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
       "category": {
         "id": 4,
@@ -120,8 +120,8 @@
       "rating": 4.4,
       "is_available": true,
       "images": [
-        "https://example.com/powerbank_image1.jpg",
-        "https://example.com/powerbank_image2.jpg"
+        "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1585995603413-eb35b5f4a50b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
       "category": {
         "id": 3,
@@ -136,76 +136,12 @@
       "rating": 4.9,
       "is_available": true,
       "images": [
-        "https://example.com/waterbottle_image1.jpg",
-        "https://example.com/waterbottle_image2.jpg"
+        "https://images.unsplash.com/photo-1602143407151-7111542de6e8?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1625708458528-802ec79b1ed8?q=80&w=2960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
       "category": {
         "id": 2,
         "name": "Kitchenware"
-      }
-    },
-    {
-      "id": 11,
-      "name": "Fitness Tracker",
-      "price": 300000,
-      "description": "Monitor your health and track your workouts with our advanced fitness tracker. Stay on top of your fitness goals with real-time data and analysis.",
-      "rating": 4.6,
-      "is_available": true,
-      "images": [
-        "https://example.com/fitnesstracker_image1.jpg",
-        "https://example.com/fitnesstracker_image2.jpg"
-      ],
-      "category": {
-        "id": 3,
-        "name": "Electronics"
-      }
-    },
-    {
-      "id": 12,
-      "name": "Stainless Steel Water Bottle",
-      "price": 350000,
-      "description": "Stay eco-friendly and hydrated with our durable stainless steel water bottle. Perfect for both hot and cold beverages on the go.",
-      "rating": 4.3,
-      "is_available": true,
-      "images": [
-        "https://example.com/stainlessbottle_image1.jpg",
-        "https://example.com/stainlessbottle_image2.jpg"
-      ],
-      "category": {
-        "id": 2,
-        "name": "Kitchenware"
-      }
-    },
-    {
-      "id": 13,
-      "name": "Wireless Keyboard",
-      "price": 180000,
-      "description": "Enhance your typing experience with our compact and responsive wireless keyboard. Ideal for both work and leisure.",
-      "rating": 4.2,
-      "is_available": true,
-      "images": [
-        "https://example.com/keyboard_image1.jpg",
-        "https://example.com/keyboard_image2.jpg"
-      ],
-      "category": {
-        "id": 3,
-        "name": "Electronics"
-      }
-    },
-    {
-      "id": 14,
-      "name": "Camping Tent",
-      "price": 700000,
-      "description": "Experience the great outdoors with our spacious and weather-resistant camping tent. Perfect for camping enthusiasts.",
-      "rating": 4.8,
-      "is_available": true,
-      "images": [
-        "https://example.com/tent_image1.jpg",
-        "https://example.com/tent_image2.jpg"
-      ],
-      "category": {
-        "id": 5,
-        "name": "Outdoor"
       }
     },
     {
@@ -216,8 +152,8 @@
       "rating": 4.1,
       "is_available": false,
       "images": [
-        "https://example.com/gamingmouse_image1.jpg",
-        "https://example.com/gamingmouse_image2.jpg"
+        "https://images.unsplash.com/photo-1623820919239-0d0ff10797a1?q=80&w=2874&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?q=80&w=2865&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
       "category": {
         "id": 3,
@@ -232,8 +168,8 @@
       "rating": 4.0,
       "is_available": false,
       "images": [
-        "https://example.com/bluetoothspeaker_image1.jpg",
-        "https://example.com/bluetoothspeaker_image2.jpg"
+        "https://images.unsplash.com/photo-1608488458196-61cd3a720de8?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1608223652565-63abae6cf733?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
       "category": {
         "id": 3,

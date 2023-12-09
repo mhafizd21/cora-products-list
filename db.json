@@ -175,32 +175,32 @@
         "id": 3,
         "name": "Electronics"
       }
-    },
+    }
   ],
   "categories": [
     {
       "id": 1,
-      "name": "Apparel",
+      "name": "Apparel"
     },
     {
       "id": 2,
-      "name": "Kitchenware",
+      "name": "Kitchenware"
     },
     {
       "id": 3,
-      "name": "Electronics",
+      "name": "Electronics"
     },
     {
       "id": 4,
-      "name": "Accessories",
+      "name": "Accessories"
     },
     {
       "id": 5,
-      "name": "Outdoor",
+      "name": "Outdoor"
     },
     {
       "id": 6,
-      "name": "Home Decor",
+      "name": "Home Decor"
     }
   ]
 }

@@ -1,14 +1,206 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 1200000,
+      "description": "Immerse yourself in music with our high-quality wireless headphones. Enjoy a seamless listening experience with clear and dynamic sound.",
+      "rating": 4.5,
+      "is_available": true,
+      "images": [
+        "https://example.com/headphones_image1.jpg",
+        "https://example.com/headphones_image2.jpg"
+      ],
+      "category": {
+        "id": 3,
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Travel Backpack",
+      "price": 750000,
+      "description": "Explore the world with our durable and spacious travel backpack. Designed for comfort and convenience, it's perfect for your next adventure.",
+      "rating": 4.2,
+      "is_available": true,
+      "images": [
+        "https://example.com/backpack_image1.jpg",
+        "https://example.com/backpack_image2.jpg"
+      ],
+      "category": {
+        "id": 4,
+        "name": "Accessories"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Smartwatch",
+      "price": 350000,
+      "description": "Stay connected and track your fitness with our feature-rich smartwatch. It combines style and functionality to enhance your daily activities.",
+      "rating": 4.0,
+      "is_available": true,
+      "images": [
+        "https://example.com/smartwatch_image1.jpg",
+        "https://example.com/smartwatch_image2.jpg"
+      ],
+      "category": {
+        "id": 3,
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Coffee Maker",
+      "price": 900000,
+      "description": "Brew your favorite coffee at home with our efficient and stylish coffee maker. Start your day right with a perfect cup of coffee.",
+      "rating": 4.8,
+      "is_available": true,
+      "images": [
+        "https://example.com/coffeemaker_image1.jpg",
+        "https://example.com/coffeemaker_image2.jpg"
+      ],
+      "category": {
+        "id": 2,
+        "name": "Kitchenware"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Running Shoes",
+      "price": 400000,
+      "description": "Achieve your fitness goals with our comfortable and supportive running shoes. Designed for performance and style.",
+      "rating": 4.6,
+      "is_available": true,
+      "images": [
+        "https://example.com/runningshoes_image1.jpg",
+        "https://example.com/runningshoes_image2.jpg"
+      ],
+      "category": {
+        "id": 1,
+        "name": "Apparel"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Portable Speaker",
+      "price": 180000,
+      "description": "Bring the party anywhere with our portable speaker. Enjoy crisp and clear sound for your favorite music on the go.",
+      "rating": 4.3,
+      "is_available": true,
+      "images": [
+        "https://example.com/speaker_image1.jpg",
+        "https://example.com/speaker_image2.jpg"
+      ],
+      "category": {
+        "id": 3,
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Sunglasses",
+      "price": 150000,
+      "description": "Protect your eyes in style with our trendy sunglasses. Whether it's sunny or not, stay fashionable with our eyewear.",
+      "rating": 4.7,
+      "is_available": true,
+      "images": [
+        "https://example.com/sunglasses_image1.jpg",
+        "https://example.com/sunglasses_image2.jpg"
+      ],
+      "category": {
+        "id": 4,
+        "name": "Accessories"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Power Bank",
+      "price": 50000,
+      "description": "Never run out of battery with our compact and efficient power bank. Stay connected on the go with this essential accessory.",
+      "rating": 4.4,
+      "is_available": true,
+      "images": [
+        "https://example.com/powerbank_image1.jpg",
+        "https://example.com/powerbank_image2.jpg"
+      ],
+      "category": {
+        "id": 3,
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Water Bottle",
+      "price": 25000,
+      "description": "Stay hydrated with our eco-friendly water bottle. Convenient for travel, sports, or daily use.",
+      "rating": 4.9,
+      "is_available": true,
+      "images": [
+        "https://example.com/waterbottle_image1.jpg",
+        "https://example.com/waterbottle_image2.jpg"
+      ],
+      "category": {
+        "id": 2,
+        "name": "Kitchenware"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Gaming Mouse",
+      "price": 600000,
+      "description": "Enhance your gaming experience with our precision gaming mouse. Designed for speed and accuracy, it's a must-have for gamers.",
+      "rating": 4.1,
+      "is_available": false,
+      "images": [
+        "https://example.com/gamingmouse_image1.jpg",
+        "https://example.com/gamingmouse_image2.jpg"
+      ],
+      "category": {
+        "id": 3,
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Bluetooth Speaker",
+      "price": 150000,
+      "description": "Enjoy music anytime, anywhere with our portable Bluetooth speaker. Compact and powerful, it's your perfect audio companion.",
+      "rating": 4.0,
+      "is_available": false,
+      "images": [
+        "https://example.com/bluetoothspeaker_image1.jpg",
+        "https://example.com/bluetoothspeaker_image2.jpg"
+      ],
+      "category": {
+        "id": 3,
+        "name": "Electronics"
+      }
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "categories": [
+    {
+      "id": 1,
+      "name": "Apparel"
+    },
+    {
+      "id": 2,
+      "name": "Kitchenware"
+    },
+    {
+      "id": 3,
+      "name": "Electronics"
+    },
+    {
+      "id": 4,
+      "name": "Accessories"
+    },
+    {
+      "id": 5,
+      "name": "Outdoor"
+    },
+    {
+      "id": 6,
+      "name": "Home Decor"
+    }
+  ]
 }

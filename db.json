@@ -145,22 +145,6 @@
       }
     },
     {
-      "id": 11,
-      "name": "Fitness Tracker",
-      "price": 300000,
-      "description": "Monitor your health and track your workouts with our advanced fitness tracker. Stay on top of your fitness goals with real-time data and analysis.",
-      "rating": 4.6,
-      "is_available": true,
-      "images": [
-        "https://images.unsplash.com/photo-1576243345690-4e4b79b63288?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "https://plus.unsplash.com/premium_photo-1681433383783-661b519b154a?q=80&w=2920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-      ],
-      "category": {
-        "id": 3,
-        "name": "Electronics"
-      }
-    },
-    {
       "id": 12,
       "name": "Stainless Steel Water Bottle",
       "price": 350000,
@@ -190,6 +174,22 @@
       "category": {
         "id": 3,
         "name": "Electronics"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Camping Tent",
+      "price": 700000,
+      "description": "Experience the great outdoors with our spacious and weather-resistant camping tent. Perfect for camping enthusiasts.",
+      "rating": 4.8,
+      "is_available": true,
+      "images": [
+        "https://images.unsplash.com/photo-1571687949921-1306bfb24b72?q=80&w=2926&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1508873696983-2dfd5898f08b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "category": {
+        "id": 5,
+        "name": "Outdoor"
       }
     },
     {

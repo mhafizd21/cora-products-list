@@ -176,31 +176,5 @@
         "name": "Electronics"
       }
     }
-  ],
-  "categories": [
-    {
-      "id": 1,
-      "name": "Apparel"
-    },
-    {
-      "id": 2,
-      "name": "Kitchenware"
-    },
-    {
-      "id": 3,
-      "name": "Electronics"
-    },
-    {
-      "id": 4,
-      "name": "Accessories"
-    },
-    {
-      "id": 5,
-      "name": "Outdoor"
-    },
-    {
-      "id": 6,
-      "name": "Home Decor"
-    }
   ]
 }

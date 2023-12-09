@@ -129,22 +129,6 @@
       }
     },
     {
-      "id": 9,
-      "name": "Water Bottle",
-      "price": 25000,
-      "description": "Stay hydrated with our eco-friendly water bottle. Convenient for travel, sports, or daily use.",
-      "rating": 4.9,
-      "is_available": true,
-      "images": [
-        "https://images.unsplash.com/photo-1602143407151-7111542de6e8?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "https://images.unsplash.com/photo-1625708458528-802ec79b1ed8?q=80&w=2960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-      ],
-      "category": {
-        "id": 2,
-        "name": "Kitchenware"
-      }
-    },
-    {
       "id": 12,
       "name": "Stainless Steel Water Bottle",
       "price": 350000,

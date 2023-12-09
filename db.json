@@ -2,19 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Wireless Headphones",
-      "price": 1200000,
-      "description": "Immerse yourself in music with our high-quality wireless headphones. Enjoy a seamless listening experience with clear and dynamic sound.",
-      "rating": 4.5,
-      "is_available": true,
-      "images": [
-        "https://example.com/headphones_image1.jpg",
-        "https://example.com/headphones_image2.jpg"
-      ],
-      "category": {
-        "id": 3,
-        "name": "Electronics"
-      }
+      "name": "Wireless Headphones"
     }
   ]
 }

@@ -1,0 +1,554 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 1200000,
+      "description": "Immerse yourself in music with our high-quality wireless headphones. Enjoy a seamless listening experience with clear and dynamic sound.",
+      "rating": 4.5,
+      "is_available": true,
+      "images": [
+        "https://example.com/headphones_image1.jpg",
+        "https://example.com/headphones_image2.jpg"
+      ],
+      "category": {
+        "id": 3,
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Travel Backpack",
+      "price": 750000,
+      "description": "Explore the world with our durable and spacious travel backpack. Designed for comfort and convenience, it's perfect for your next adventure.",
+      "rating": 4.2,
+      "is_available": true,
+      "images": [
+        "https://example.com/backpack_image1.jpg",
+        "https://example.com/backpack_image2.jpg"
+      ],
+      "category": {
+        "id": 4,
+        "name": "Accessories"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Smartwatch",
+      "price": 350000,
+      "description": "Stay connected and track your fitness with our feature-rich smartwatch. It combines style and functionality to enhance your daily activities.",
+      "rating": 4.0,
+      "is_available": true,
+      "images": [
+        "https://example.com/smartwatch_image1.jpg",
+        "https://example.com/smartwatch_image2.jpg"
+      ],
+      "category": {
+        "id": 3,
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Coffee Maker",
+      "price": 900000,
+      "description": "Brew your favorite coffee at home with our efficient and stylish coffee maker. Start your day right with a perfect cup of coffee.",
+      "rating": 4.8,
+      "is_available": true,
+      "images": [
+        "https://example.com/coffeemaker_image1.jpg",
+        "https://example.com/coffeemaker_image2.jpg"
+      ],
+      "category": {
+        "id": 2,
+        "name": "Kitchenware"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Running Shoes",
+      "price": 400000,
+      "description": "Achieve your fitness goals with our comfortable and supportive running shoes. Designed for performance and style.",
+      "rating": 4.6,
+      "is_available": true,
+      "images": [
+        "https://example.com/runningshoes_image1.jpg",
+        "https://example.com/runningshoes_image2.jpg"
+      ],
+      "category": {
+        "id": 1,
+        "name": "Apparel"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Portable Speaker",
+      "price": 180000,
+      "description": "Bring the party anywhere with our portable speaker. Enjoy crisp and clear sound for your favorite music on the go.",
+      "rating": 4.3,
+      "is_available": true,
+      "images": [
+        "https://example.com/speaker_image1.jpg",
+        "https://example.com/speaker_image2.jpg"
+      ],
+      "category": {
+        "id": 3,
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Sunglasses",
+      "price": 150000,
+      "description": "Protect your eyes in style with our trendy sunglasses. Whether it's sunny or not, stay fashionable with our eyewear.",
+      "rating": 4.7,
+      "is_available": true,
+      "images": [
+        "https://example.com/sunglasses_image1.jpg",
+        "https://example.com/sunglasses_image2.jpg"
+      ],
+      "category": {
+        "id": 4,
+        "name": "Accessories"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Power Bank",
+      "price": 50000,
+      "description": "Never run out of battery with our compact and efficient power bank. Stay connected on the go with this essential accessory.",
+      "rating": 4.4,
+      "is_available": true,
+      "images": [
+        "https://example.com/powerbank_image1.jpg",
+        "https://example.com/powerbank_image2.jpg"
+      ],
+      "category": {
+        "id": 3,
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Water Bottle",
+      "price": 25000,
+      "description": "Stay hydrated with our eco-friendly water bottle. Convenient for travel, sports, or daily use.",
+      "rating": 4.9,
+      "is_available": true,
+      "images": [
+        "https://example.com/waterbottle_image1.jpg",
+        "https://example.com/waterbottle_image2.jpg"
+      ],
+      "category": {
+        "id": 2,
+        "name": "Kitchenware"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Fitness Tracker",
+      "price": 300000,
+      "description": "Monitor your health and track your workouts with our advanced fitness tracker. Stay on top of your fitness goals with real-time data and analysis.",
+      "rating": 4.6,
+      "is_available": true,
+      "images": [
+        "https://example.com/fitnesstracker_image1.jpg",
+        "https://example.com/fitnesstracker_image2.jpg"
+      ],
+      "category": {
+        "id": 3,
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Stainless Steel Water Bottle",
+      "price": 350000,
+      "description": "Stay eco-friendly and hydrated with our durable stainless steel water bottle. Perfect for both hot and cold beverages on the go.",
+      "rating": 4.3,
+      "is_available": true,
+      "images": [
+        "https://example.com/stainlessbottle_image1.jpg",
+        "https://example.com/stainlessbottle_image2.jpg"
+      ],
+      "category": {
+        "id": 2,
+        "name": "Kitchenware"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Wireless Keyboard",
+      "price": 180000,
+      "description": "Enhance your typing experience with our compact and responsive wireless keyboard. Ideal for both work and leisure.",
+      "rating": 4.2,
+      "is_available": true,
+      "images": [
+        "https://example.com/keyboard_image1.jpg",
+        "https://example.com/keyboard_image2.jpg"
+      ],
+      "category": {
+        "id": 3,
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Camping Tent",
+      "price": 700000,
+      "description": "Experience the great outdoors with our spacious and weather-resistant camping tent. Perfect for camping enthusiasts.",
+      "rating": 4.8,
+      "is_available": true,
+      "images": [
+        "https://example.com/tent_image1.jpg",
+        "https://example.com/tent_image2.jpg"
+      ],
+      "category": {
+        "id": 5,
+        "name": "Outdoor"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Ergonomic Office Chair",
+      "price": 550000,
+      "description": "Stay comfortable during long work hours with our ergonomic office chair. Designed for optimal support and style.",
+      "rating": 4.5,
+      "is_available": true,
+      "images": [
+        "https://example.com/officechair_image1.jpg",
+        "https://example.com/officechair_image2.jpg"
+      ],
+      "category": {
+        "id": 4,
+        "name": "Accessories"
+      }
+    },
+    {
+      "id": 16,
+      "name": "External Hard Drive",
+      "price": 1200000,
+      "description": "Expand your storage capacity with our high-capacity external hard drive. Safely store and back up your important files.",
+      "rating": 4.1,
+      "is_available": true,
+      "images": [
+        "https://example.com/harddrive_image1.jpg",
+        "https://example.com/harddrive_image2.jpg"
+      ],
+      "category": {
+        "id": 3,
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Yoga Mat",
+      "price": 40000,
+      "description": "Practice yoga with comfort and style using our non-slip and easy-to-clean yoga mat. Ideal for both beginners and experienced yogis.",
+      "rating": 4.7,
+      "is_available": true,
+      "images": [
+        "https://example.com/yogamat_image1.jpg",
+        "https://example.com/yogamat_image2.jpg"
+      ],
+      "category": {
+        "id": 6,
+        "name": "Home Decor"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Digital Camera",
+      "price": 900000,
+      "description": "Capture life's moments with our high-resolution digital camera. Perfect for photography enthusiasts and casual shooters alike.",
+      "rating": 4.4,
+      "is_available": true,
+      "images": [
+        "https://example.com/camera_image1.jpg",
+        "https://example.com/camera_image2.jpg"
+      ],
+      "category": {
+        "id": 3,
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Hiking Boots",
+      "price": 280000,
+      "description": "Conquer the trails with our durable and comfortable hiking boots. Designed for stability and support on various terrains.",
+      "rating": 4.9,
+      "is_available": true,
+      "images": [
+        "https://example.com/hikingboots_image1.jpg",
+        "https://example.com/hikingboots_image2.jpg"
+      ],
+      "category": {
+        "id": 1,
+        "name": "Apparel"
+      }
+    },
+    {
+      "id": 21,
+      "name": "Dumbbell Set",
+      "price": 250000,
+      "description": "Build strength and tone muscles with our versatile dumbbell set. Ideal for home workouts and fitness enthusiasts.",
+      "rating": 4.2,
+      "is_available": true,
+      "images": [
+        "https://example.com/dumbbellset_image1.jpg",
+        "https://example.com/dumbbellset_image2.jpg"
+      ],
+      "category": {
+        "id": 6,
+        "name": "Home Decor"
+      }
+    },
+    {
+      "id": 22,
+      "name": "Coffee Grinder",
+      "price": 80000,
+      "description": "Grind your coffee beans to perfection with our adjustable coffee grinder. Elevate your coffee brewing experience at home.",
+      "rating": 4.5,
+      "is_available": true,
+      "images": [
+        "https://example.com/coffeegrinder_image1.jpg",
+        "https://example.com/coffeegrinder_image2.jpg"
+      ],
+      "category": {
+        "id": 2,
+        "name": "Kitchenware"
+      }
+    },
+    {
+      "id": 23,
+      "name": "Desk Organizer",
+      "price": 45000,
+      "description": "Keep your workspace tidy with our practical desk organizer. Store pens, documents, and accessories in style.",
+      "rating": 4.8,
+      "is_available": true,
+      "images": [
+        "https://example.com/deskorganizer_image1.jpg",
+        "https://example.com/deskorganizer_image2.jpg"
+      ],
+      "category": {
+        "id": 4,
+        "name": "Accessories"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Bluetooth Earphones",
+      "price": 120000,
+      "description": "Experience wireless audio with our Bluetooth earphones. Enjoy clear sound and hands-free convenience on the go.",
+      "rating": 4.3,
+      "is_available": true,
+      "images": [
+        "https://example.com/earphones_image1.jpg",
+        "https://example.com/earphones_image2.jpg"
+      ],
+      "category": {
+        "id": 3,
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": 25,
+      "name": "Digital Alarm Clock",
+      "price": 30000,
+      "description": "Start your day on time with our digital alarm clock. Sleek design and multiple features for a perfect morning routine.",
+      "rating": 4.6,
+      "is_available": true,
+      "images": [
+        "https://example.com/alarmclock_image1.jpg",
+        "https://example.com/alarmclock_image2.jpg"
+      ],
+      "category": {
+        "id": 6,
+        "name": "Home Decor"
+      }
+    },
+    {
+      "id": 26,
+      "name": "Resistance Bands Set",
+      "price": 100000,
+      "description": "Enhance your workouts with our durable resistance bands set. Perfect for strength training and flexibility exercises.",
+      "rating": 4.1,
+      "is_available": true,
+      "images": [
+        "https://example.com/resistancebands_image1.jpg",
+        "https://example.com/resistancebands_image2.jpg"
+      ],
+      "category": {
+        "id": 6,
+        "name": "Home Decor"
+      }
+    },
+    {
+      "id": 27,
+      "name": "Car Phone Mount",
+      "price": 25000,
+      "description": "Drive safely with our convenient car phone mount. Easily access navigation and hands-free calling on the road.",
+      "rating": 4.7,
+      "is_available": true,
+      "images": [
+        "https://example.com/phonemount_image1.jpg",
+        "https://example.com/phonemount_image2.jpg"
+      ],
+      "category": {
+        "id": 3,
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": 28,
+      "name": "Tea Infuser",
+      "price": 15000,
+      "description": "Brew the perfect cup of tea with our stainless steel tea infuser. Enjoy the rich flavors of your favorite teas.",
+      "rating": 4.4,
+      "is_available": true,
+      "images": [
+        "https://example.com/teainfuser_image1.jpg",
+        "https://example.com/teainfuser_image2.jpg"
+      ],
+      "category": {
+        "id": 2,
+        "name": "Kitchenware"
+      }
+    },
+    {
+      "id": 29,
+      "name": "Adjustable Standing Desk",
+      "price": 350000,
+      "description": "Improve your posture and productivity with our adjustable standing desk. Create a comfortable workspace tailored to your needs.",
+      "rating": 4.9,
+      "is_available": true,
+      "images": [
+        "https://example.com/standingdesk_image1.jpg",
+        "https://example.com/standingdesk_image2.jpg"
+      ],
+      "category": {
+        "id": 4,
+        "name": "Accessories"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Gaming Mouse",
+      "price": 600000,
+      "description": "Enhance your gaming experience with our precision gaming mouse. Designed for speed and accuracy, it's a must-have for gamers.",
+      "rating": 4.1,
+      "is_available": false,
+      "images": [
+        "https://example.com/gamingmouse_image1.jpg",
+        "https://example.com/gamingmouse_image2.jpg"
+      ],
+      "category": {
+        "id": 3,
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Bluetooth Speaker",
+      "price": 150000,
+      "description": "Enjoy music anytime, anywhere with our portable Bluetooth speaker. Compact and powerful, it's your perfect audio companion.",
+      "rating": 4.0,
+      "is_available": false,
+      "images": [
+        "https://example.com/bluetoothspeaker_image1.jpg",
+        "https://example.com/bluetoothspeaker_image2.jpg"
+      ],
+      "category": {
+        "id": 3,
+        "name": "Electronics"
+      }
+    },
+    {
+      "id": 30,
+      "name": "Luggage Set",
+      "price": 1200000,
+      "description": "Travel in style with our durable and spacious luggage set. Designed for convenience and organization during your journeys.",
+      "rating": 4.0,
+      "is_available": false,
+      "images": [
+        "https://example.com/luggageset_image1.jpg",
+        "https://example.com/luggageset_image2.jpg"
+      ],
+      "category": {
+        "id": 5,
+        "name": "Outdoor"
+      }
+    }
+  ],
+  categories: [
+    {
+      "id": 1,
+      "name": "Apparel",
+      "products": [
+        "Running Shoes",
+        "Hiking Boots"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Kitchenware",
+      "products": [
+        "Coffee Maker",
+        "Water Bottle",
+        "Stainless Steel Water Bottle",
+        "Coffee Grinder",
+        "Tea Infuser"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Electronics",
+      "products": [
+        "Smartwatch",
+        "Bluetooth Earbuds",
+        "Bluetooth Earphones",
+        "Portable Speaker",
+        "External Hard Drive",
+        "Digital Camera",
+        "Bluetooth Speaker",
+        "Digital Alarm Clock",
+        "Resistance Bands Set",
+        "Car Phone Mount"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Accessories",
+      "products": [
+        "Travel Backpack",
+        "Sunglasses",
+        "Power Bank",
+        "Gaming Mouse",
+        "Ergonomic Office Chair",
+        "Desk Organizer",
+        "Adjustable Standing Desk"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Outdoor",
+      "products": [
+        "Camping Tent",
+        "Luggage Set"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Home Decor",
+      "products": [
+        "Travel Pillow",
+        "Yoga Mat",
+        "Dumbbell Set",
+        "Fitness Tracker",
+        "Desk Organizer",
+        "Adjustable Standing Desk"
+      ]
+    }
+  ]
+}

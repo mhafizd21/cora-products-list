@@ -181,70 +181,26 @@
     {
       "id": 1,
       "name": "Apparel",
-      "products": [
-        "Running Shoes",
-        "Hiking Boots"
-      ]
     },
     {
       "id": 2,
       "name": "Kitchenware",
-      "products": [
-        "Coffee Maker",
-        "Water Bottle",
-        "Stainless Steel Water Bottle",
-        "Coffee Grinder",
-        "Tea Infuser"
-      ]
     },
     {
       "id": 3,
       "name": "Electronics",
-      "products": [
-        "Smartwatch",
-        "Bluetooth Earbuds",
-        "Bluetooth Earphones",
-        "Portable Speaker",
-        "External Hard Drive",
-        "Digital Camera",
-        "Bluetooth Speaker",
-        "Digital Alarm Clock",
-        "Resistance Bands Set",
-        "Car Phone Mount"
-      ]
     },
     {
       "id": 4,
       "name": "Accessories",
-      "products": [
-        "Travel Backpack",
-        "Sunglasses",
-        "Power Bank",
-        "Gaming Mouse",
-        "Ergonomic Office Chair",
-        "Desk Organizer",
-        "Adjustable Standing Desk"
-      ]
     },
     {
       "id": 5,
       "name": "Outdoor",
-      "products": [
-        "Camping Tent",
-        "Luggage Set"
-      ]
     },
     {
       "id": 6,
       "name": "Home Decor",
-      "products": [
-        "Travel Pillow",
-        "Yoga Mat",
-        "Dumbbell Set",
-        "Fitness Tracker",
-        "Desk Organizer",
-        "Adjustable Standing Desk"
-      ]
     }
   ]
 }
